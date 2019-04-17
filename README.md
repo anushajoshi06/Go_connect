@@ -12,3 +12,5 @@ and second during the end of the trip. The location of the bus is consistently a
 by the GPS module installed in the RFID reader. These location data are extracted or co-ordinated for display on the Mobile
 Application in a friendly manner using the MapMyIndia APIs. There is also pointing system similar to those of credit cards, points
 are earned by taking trips and using the RFIDs provided. These points can be redeemed for various gift choices and credits.
+
+This part of the project deals with the interface of esp8266 and firebase which is used as a server.

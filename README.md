@@ -14,4 +14,4 @@ Application in a friendly manner using the MapMyIndia APIs. There is also pointi
 are earned by taking trips and using the RFIDs provided. These points can be redeemed for various gift choices and credits.
 
 This part of the project deals with the interface of rfid reader, esp8266 and firebase which is used as a server.
-******************************************************************************************************************************************
+*******************************************************************************************************************************************
